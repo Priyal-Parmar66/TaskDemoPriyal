@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EdittextDemo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="validated_data">validated_data</string>
+    <string name="add_edittext">Add EditText</string>
+    <string name="submit">Submit</string>
+    <string name="remove">Remove</string>
+    <string name="enter_text">Enter text</string>
+</resources>
